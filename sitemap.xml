@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://utvbag.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://utvbag.com/best-utv-storage-bags.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://utvbag.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://utvbag.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://utvbag.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://utvbag.com/utvbag-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://utvbag.com/smart-utvbag-shopping-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://utvbag.com/utvbag-buyers-handbook-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://utvbag.com/what-we-look-for-utvbag-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://utvbag.com/utvbag-explained-2026.html</loc><lastmod>2026-05-24</lastmod></url>
-  <url><loc>https://utvbag.com/utvbag-market-2026.html</loc><lastmod>2026-05-26</lastmod></url>
-  <url><loc>https://utvbag.com/utvbag-practical-guide-2026.html</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://utvbag.com/utvbag-reviewed-2026.html</loc><lastmod>2026-06-02</lastmod></url>
-  <url><loc>https://utvbag.com/utvbag-what-buyers-need-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://utvbag.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
